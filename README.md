@@ -2,6 +2,8 @@
 
 A free, unofficial reverse-engineered API for ChatGPT.com built with Node.js. This project provides a simple HTTP server that allows you to interact with ChatGPT without requiring an API key.
 
+![API Demo](test-image.png)
+
 ## ⚠️ IMPORTANT DISCLAIMER
 
 **THIS PROJECT IS FOR TESTING AND EDUCATIONAL PURPOSES ONLY!**
