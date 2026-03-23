@@ -1,0 +1,34 @@
+{
+  "name": "chatgpt-reverse-api",
+  "version": "1.0.0",
+  "description": "Free chatgpt.com reverse api in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FurqanAhmadKhan/Chatgpt-Reverse-API.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "free",
+    "api",
+    "reverse-api",
+    "official-api",
+    "chatgpt-api",
+    "openai"
+  ],
+  "author": "FurqanAhmadKhan",
+  "bugs": {
+    "url": "https://github.com/FurqanAhmadKhan/Chatgpt-Reverse-API/issues"
+  },
+  "homepage": "https://github.com/FurqanAhmadKhan/Chatgpt-Reverse-API#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
